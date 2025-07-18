@@ -1,0 +1,13 @@
+service: "service_bento:ProfanityService"
+labels:
+  owner: akhil
+  stage: dev
+include:
+  - "service_bento.py"
+  - "profanity.joblib"
+python:
+  packages:
+    - scikit-learn
+    - pandas
+    - joblib
+    - bentoml
