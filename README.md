@@ -1,4 +1,4 @@
-[Here](https://akhilvreddy.com/posts/deploying-model/) is the original blog post.
+[Here](https://akhilvreddy.com/posts/deploying-model/) is the original blog post. [Here](https://github.com/akhilvreddy/deploying-profanity-service/blob/main/notebook/modelserve.ipynb) is the demo.
 
 ---
 
@@ -46,4 +46,4 @@ bentoml serve service_bento:ProfanityService
 
 ## Demo
 
-Please look at [`notebook/modelserve.ipynb`](https://github.com/akhilvreddy/deploying-profanity-service/blob/main/notebook/modelserve.ipynb) for the full demonstration of this working.
+**Please look at [`notebook/modelserve.ipynb`](https://github.com/akhilvreddy/deploying-profanity-service/blob/main/notebook/modelserve.ipynb)** for the full demonstration of this working.
